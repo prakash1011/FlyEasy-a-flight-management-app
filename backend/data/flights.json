@@ -1,0 +1,62 @@
+[
+  {
+    "id": "FL1001",
+    "airline": "IndiGo",
+    "origin": "Delhi (DEL)",
+    "destination": "Mumbai (BOM)",
+    "departureTime": "2025-06-21T08:00:00Z",
+    "arrivalTime": "2025-06-21T10:00:00Z",
+    "duration": "2h",
+    "price": 4800,
+    "status": "on-time",
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "FL1002",
+    "airline": "Air India",
+    "origin": "Mumbai (BOM)",
+    "destination": "Bengaluru (BLR)",
+    "departureTime": "2025-06-22T14:00:00Z",
+    "arrivalTime": "2025-06-22T16:10:00Z",
+    "duration": "2h 10m",
+    "price": 5300,
+    "status": "delayed",
+    "aircraft": "Boeing 737"
+  },
+  {
+    "id": "FL1003",
+    "airline": "Vistara",
+    "origin": "Chennai (MAA)",
+    "destination": "Delhi (DEL)",
+    "departureTime": "2025-06-23T07:30:00Z",
+    "arrivalTime": "2025-06-23T10:15:00Z",
+    "duration": "2h 45m",
+    "price": 5900,
+    "status": "on-time",
+    "aircraft": "Airbus A321"
+  },
+  {
+    "id": "FL1004",
+    "airline": "SpiceJet",
+    "origin": "Kolkata (CCU)",
+    "destination": "Hyderabad (HYD)",
+    "departureTime": "2025-06-25T09:00:00Z",
+    "arrivalTime": "2025-06-25T11:30:00Z",
+    "duration": "2h 30m",
+    "price": 4500,
+    "status": "cancelled",
+    "aircraft": "Bombardier Q400"
+  },
+  {
+    "id": "FL1005",
+    "airline": "Akasa Air",
+    "origin": "Delhi (DEL)",
+    "destination": "Goa (GOI)",
+    "departureTime": "2025-06-26T06:45:00Z",
+    "arrivalTime": "2025-06-26T09:15:00Z",
+    "duration": "2h 30m",
+    "price": 4700,
+    "status": "on-time",
+    "aircraft": "Boeing 737 MAX"
+  }
+]
