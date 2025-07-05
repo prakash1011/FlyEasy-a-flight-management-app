@@ -7,10 +7,3 @@ backend/node_modules/
 .env
 frontend/.env
 backend/.env
-
-# Logs
-*.log
-
-# OS generated files
-.DS_Store
-Thumbs.db
